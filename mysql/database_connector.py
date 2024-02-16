@@ -2,29 +2,6 @@ import pymysql
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## config connection
 timeout = 10
 connection = pymysql.connect(
@@ -33,7 +10,7 @@ connection = pymysql.connect(
   cursorclass=pymysql.cursors.DictCursor,
   db="defaultdb",
   host="mysql-5812e2f-nb-project.a.aivencloud.com",
-  password="AVNS_P6TvtoPOiyyg02KDeB9",
+  password="password",
   read_timeout=timeout,
   port=28602,
   user="avnadmin",
