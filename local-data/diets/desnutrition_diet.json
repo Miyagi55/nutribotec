@@ -1,0 +1,49 @@
+{
+	"ideas_de_preparaciones": [
+		{
+			"tiempo de comida": "desayuno",
+			"combinaciones": "lácteos+cereal+fruta+proteína",
+			"ejemplo": "1 taza de leche + 4 cucharadas de avena + 1 taza de frutillas+ 2 huevo cocido"
+		},
+		{
+			"tiempo de comida": "refrigerio 1",
+			"combinaciones": "lácteos+cereal+fruta",
+			"ejemplo": "1 taza de yogurt + 6 galletas integrales + 1 durazno mediano"
+		},
+		{
+			"tiempo de comida": "almuerzo",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1 taza de arroz + 1 filete grande de pescado + 1 taza de ensalada + 1 tajada de aguacate + 1 naranja picada + 1 vaso con agua"
+        },
+		{
+			"tiempo de comida": "refrigerio 2",
+			"combinaciones": "lácteos bajos en grasa+cereal+fruta",
+			"ejemplo": "1 taza de yogurt bajo en grasa + 3 cucharadas de corn flakes + 1 manzana pequeña"
+		},
+		{
+			"tiempo de comida": "merienda",
+			"combinaciones": "cereal+proteína +vegetales+grasa+fruta + agua",
+			"ejemplo": "1 verde mediano + 1 filete grande de pollo + 1 taza de ensalada + 1 puñadito de maní + 1/2 taza de melón + 1 vaso con agua"
+		}
+	],
+	"recomendaciones_dieteticas_desnutricion": {
+		"alimentos_no_permitidos": [
+			"Evite el consumo de alimentos bajos en grasas y opte por el consumo de alimentos enteros, es decir, elegir leche entera",
+			"Evitar alimentos que pueden causar gases como: col, coliflor, alcachofas, alverjita, cebolla, pimiento crudo. No basar su alimentación en sopas o caldos que solo aportaran agua, pero no nutrientes, opte mejor por cremas, pures, papillas, coladas o batidos.",
+			"En cuanto a las verduras u hortalizas, tiene pocas calorías pero aportan gran saciedad por eso se recomienda que su consumo sea después de la comida principal."
+		],
+		"alimentos_permitidos": [
+			"Añada frutos secos a sus preparaciones como: maní, nueces, almendras (enteros o molidos) y aceite de oliva, canola, girasol en las ensaladas, refritos, pures, sopas o cremas de legumbres o panes.",
+			"Puede agregar a la leche los siguientes alimentos para elevar sus calorías: HARINAS: harina de avena, tapioca, soja platano, quinoa u otra harina de su preferencia dependiendo si la preparación es de sal o dulce. AZUCAR: miel, chocolate, panela o leche en polvo, esto le permitirá ingerir mas energía",
+			"Acompañe los panes con: mermelada, mantequilla, pasta de maní, queso crema o crema de chocolate.",
+			"Beber de 1.5Lt a 2 Lt de agua natural al día."
+		],
+		"recomendaciones_generales": [
+			"Si tiene poco apetito, procure empezar SIEMPRE por el alimento de origen animal, es decir, huevo, pollo, carne, pescado, camarón, entre otros.",
+			"Estimule los músculos con ejercicio con pesas durante 20 o 30 minutos ya que esta será un aliado importante para la ganancia de peso.",
+			"Se recomienda hacer como mínimo 5-6 comidas con el fin de no guardar largos ayunos y no llegar con hambre a las comidas."
+		]
+	},
+	"nota": "* RECOMENDACIONES HECHAS SOLO Y EXCLUSIVAMENTE PARA ADULTOS Y NIÑOS CON DESNUTRICIÓN. **UNA VEZ RECUPERADO EL PESO Y TALLA EN EL CASO DE LOS NIÑOS,SE TENDRA UNA ALIMENTACIÓN DISTINTA A LA DE ESTE DOCUMENTO."
+}
+

@@ -1,0 +1,56 @@
+{
+    "ideas_de_preparaciones": [
+      {
+        "tiempo_de_comida": "desayuno",
+        "combinaciones": "lácteos bajo en grasa+cereal+fruta+proteína",
+        "ejemplo": "1 taza de leche baja en grasa + 2 cucharadas de avena + 1 taza de frutillas + 1 huevo cocido"
+      },
+      {
+        "tiempo_de_comida": "refrigerio 1",
+        "combinaciones": "lácteos bajos en grasa+cereal+fruta",
+        "ejemplo": "1 taza de yogurt bajo en grasas + 6 galletas integrales + 1 durazno mediano"
+      },
+      {
+        "tiempo_de_comida": "almuerzo",
+        "combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+        "ejemplo": "1/2 taza de arroz + 1 filete pequeño de pescado + 1 taza de ensalada + 1/4 tajada de aguacate + 1 vaso con agua"
+      },
+      {
+        "tiempo_de_comida": "refrigerio 2",
+        "combinaciones": "lácteos bajos en grasa+cereal+fruta",
+        "ejemplo": "1 taza de yogurt bajo en grasa + 3 cucharadas de corn flakes + 1 manzana pequeña"
+      },
+      {
+        "tiempo_de_comida": "merienda",
+        "combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+        "ejemplo": "1/4 de verde mediano + 1 filete pequeño de pollo + 1 taza de ensalada + 1 puñadito de maní + 1/2 taza de melón + 1 vaso con agua."
+      }
+    ],
+    "recomendaciones_dieteticas_en_higado_graso": {
+      "alimentos_no_permitidos": [
+        "Alimentos fritos o grasosos, mayonesa, manteca, margarina, mantequilla, aceite de coco, aceite de palma o salsas altas en grasa.",
+        "Se recomienda evitar alimentos que causen gases como: repollo, coliflor, brócoli, cebolla, pimentón, ajo, cilantro, pepino, choclo, espárrago, alcachofa, melón, sandía, pepino, pera y plátano.",
+        "Reducir el consumo de alimentos de origen animal: carne de res, carne de de cerdo, embutidos, visceras de animales.",
+        "Evite los lácteos enteros y mejor consuma lácteos bajos en grasa con un consumo moderado, es decir 2 veces en el día.",
+        "Evitar el consumo de colas, bebidas gaseosas, miel, azúcar blanca, panela dulces, pasteles, jugos de fruta casero o de cartón."
+      ],
+      "alimentos_permitidos": [
+        "Si puede adquirir aceite de oliva virgen extra, nueces o aguacate, utilícelos en ensaladas frías, esto evitará el avance del hígado graso y en algunos casos podría revertirlo.",
+        "Se recomienda el consumo de cereales integrales como: arroz, fideo o pan integral.",
+        "Además, aumentar a su dieta papa, yuca, camote, entre otros tubérculos.",
+        "Se recomienda el consumo de proteína de origen vegetal: soya, lenteja, garbanzo, arverja, frejol rojo, negro, panamito o canario.",
+        "Se recomienda el consumo de pescados ricos en omega 3 como: Bacalao, arenque, caballa, atún en agua, sardina natural y trucha.",
+        "Se recomienda el consumo de proteína de origen animal que tenga poca grasa como: pollo, conejo, pavo, lomo o pulpa de cerdo o de res y clara de huevo. (Puede optar por carne que esté alejada del hueso, pues esta es la que menos grasa tiene.)"
+      ],
+      "recomendaciones_generales": [
+        "Consumir 1 vaso con agua en cada comida, entre comidas, antes de irse a la cama y al levantarse por la noche para orinar.",
+        "Revisar las etiquetas de los productos enlatados o empaquetados para evitar consumir aquellos alimentos que contengan un alto contenido de grasas o grasas trans.",
+        "Realizar de 20 a 30 minutos de ejercicio o actividad física de preferencia 2 a 3 veces a la semana.",
+        "Quitar el salero de la mesa en caso de que lo tenga y reduzca el consumo habitual de sal de manera diaria hasta que pueda consumir sus alimentos con poca sal o sin sal.",
+        "Evite el consumo de alimentos salados, sazonadores de funda o botella, cubos maggi, ranchero sopas maggi o cualquier sazonador que añada sal a la comida."
+      ]
+    },
+    "nota": "Solo para adultos. Los niños en crecimiento bajo ninguna circunstancia deben hacer dieta, solo cambiar sus hábitos alimenticios e incrementar su actividad física."
+    
+  }
+  

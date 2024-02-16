@@ -1,0 +1,50 @@
+{
+    "ideas_de_preparaciones": [
+      {
+        "tiempo_de_comida": "desayuno",
+        "combinaciones": "lácteos bajo en grasa+cereal+fruta+proteína",
+        "ejemplo": "1 taza de leche baja en grasa + 2 cucharadas de avena + 1 taza de frutillas + 1 huevo cocido"
+      },
+      {
+        "tiempo_de_comida": "refrigerio 1",
+        "combinaciones": "lácteos bajos en grasa+cereal+fruta",
+        "ejemplo": "1 taza de yogurt bajo en grasas + 6 galletas integrales + 1 durazno mediano"
+      },
+      {
+        "tiempo_de_comida": "almuerzo",
+        "combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+        "ejemplo": "1/2 taza de arroz + 1 filete pequeño de pescado + 1 taza de ensalada + 1/4 tajada de aguacate + 1 naranja picada + 1 vaso con agua"
+      },
+      {
+        "tiempo_de_comida": "refrigerio 2",
+        "combinaciones": "lácteos bajos en grasa+cereal+fruta",
+        "ejemplo": "1 taza de yogurt bajo en grasa + 3 cucharadas de corn flakes + 1 manzana pequeña"
+      },
+      {
+        "tiempo_de_comida": "merienda",
+        "combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+        "ejemplo": "1/4 de verde mediano + 1 filete pequeño de pollo + 1 taza de ensalada con 1/2 taza de lentejas + 1 puñadito de maní + 1/2 taza de melón + 1 vaso con agua."
+      }
+    ],
+    "recomendaciones_dieteticas_en_estreñimiento": {
+      "alimentos_no_permitidos": [
+        "Evite comer seguido alimentos que no sean de origen integral como: verde, yuca o pan blanco, es mejor reducir su consumo y tomar mayor cantidad de agua.",
+        "Jugos ya que la fibra de la fruta se pierde cuando se realiza esta preparación."
+      ],
+      "alimentos_permitidos": [
+        "Se recomienda el consumo de cereales integrales como: pan, galletas, arroz y fideos integral, salvado de trigo, avena o quinoa.",
+        "Se recomienda consumir mínimo 5 frutas con cáscara durante todo el día.",
+        "Se recomienda el consumo de yogur natural o yogur griego, su sabor será un poco amargo, así que puede agregarle edulcorante no calórico para cambiar su sabor."
+      ],
+      "recomendaciones_generales": [
+        "Beber de 2 Lt a 2,5 Lt de agua natural al día.",
+        "Realizar de 20 a 30 minutos del ejercicio o actividad física de su preferencia 2 a 3 veces a la semana. Algunos ejemplos son: (ejercicio de pesas, caminata, natación, bailo terapia)",
+        "Evite el consumo de jugos ya que la fibra de la fruta se pierde cuando se realiza esta preparación.",
+        "Si tiene ganas de ir al baño, no lo posponga, esto empeorará el estreñimiento."
+      ]
+    },
+    "nota": "Las recomendaciones son hechas solo y exclusivamente para adultos. Los niños en crecimiento bajo ninguna circunstancia deben hacer dieta, solo cambiar sus hábitos alimenticios e incrementar su actividad física."
+  }
+  
+  
+

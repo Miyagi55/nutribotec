@@ -1,0 +1,66 @@
+{
+  "anemia": {
+    "q1": "¿Has sentido fatiga o debilidad inusual recientemente?",
+    "q2": "¿Sufres de mareos o vértigos con frecuencia?",
+    "q3": "¿Has notado piel pálida, especialmente alrededor de los labios o los párpados internos?",
+    "q4": "¿Has experimentado falta de concentración o dificultades para recordar cosas?",
+    "q5": "¿Con qué frecuencia consumes alimentos ricos en hierro, como carne roja, espinacas o legumbres?"
+  },
+  "calculos_infecciones_renales": {
+    "q1": "¿Has experimentado dolor intenso en la espalda, costado o parte baja del abdomen?",
+    "q2": "¿Sientes la necesidad de orinar con frecuencia o experimentas dolor al orinar?",
+    "q3": "¿Has notado sangre en tu orina?",
+    "q4": "¿Has tenido fiebre o escalofríos recientemente?",
+    "q5": "¿Cuánta agua bebes a diario?"
+  },
+  "calculos_biliares": {
+    "q1": "¿Has experimentado un dolor repentino e intenso en la parte superior derecha o central del abdomen?",
+    "q2": "¿Sufres de náuseas o vómitos con frecuencia, especialmente después de comer alimentos grasos?",
+    "q3": "¿Has notado algún color amarillento en la piel o en los ojos?",
+    "q4": "¿Has experimentado indigestión o acidez estomacal después de comer?",
+    "q5": "¿Cuánta grasa consumes en tu dieta diaria?"
+  },
+  "estrenimiento": {
+    "q1": "¿Tienes menos de tres evacuaciones intestinales por semana?",
+    "q2": "¿Experimentas dificultad para evacuar o tienes que hacer esfuerzo durante la defecación?",
+    "q3": "¿Has notado hinchazón o malestar abdominal?",
+    "q4": "¿Con qué frecuencia consumes alimentos ricos en fibra, como frutas, verduras o granos enteros?",
+    "q5": "¿Cuánta agua bebes a diario?"
+  },
+  "higado_graso": {
+    "q1": "¿Te han diagnosticado obesidad o diabetes?",
+    "q2": "¿Consumes una cantidad alta de alimentos y bebidas azucaradas o grasas?",
+    "q3": "¿Has experimentado dolor o malestar en el lado superior derecho del abdomen?",
+    "q4": "¿Cuántas porciones de frutas y verduras consumes al día?",
+    "q5": "¿Con qué frecuencia consumes alimentos fritos o procesados?"
+  },
+  "desnutricion": {
+    "q1": "¿Has perdido peso de forma no intencionada recientemente?",
+    "q2": "¿Experimentas fatiga o debilidad con frecuencia?",
+    "q3": "¿Has notado cambios en tu cabello, como adelgazamiento o pérdida?",
+    "q4": "¿Con qué frecuencia consumes comidas equilibradas que incluyan proteínas, carbohidratos y grasas saludables?",
+    "q5": "¿Sueles saltarte comidas o tienes un horario de alimentación irregular?" 
+  },
+  "diabetes": {
+    "q1": "¿Has experimentado sed excesiva o boca seca con frecuencia?",
+    "q2": "¿Has notado un aumento repentino en el apetito o en la cantidad de comida que consumes?",
+    "q3": "¿Sientes que necesitas orinar con frecuencia, incluso durante la noche?",
+    "q4": "¿Tienes antecedentes familiares de diabetes?",
+    "q5": "¿Cuánta azúcar consumes en tu dieta diaria?"
+  },
+  "obesidad_sobrepeso": {
+    "q1": "¿Has tenido dificultades para perder peso?",
+    "q2": "¿Tienes un índice de masa corporal (IMC) superior a 30?",
+    "q3": "¿Sueles comer en exceso o tener antojos frecuentes?",
+    "q4": "¿Cuántas comidas rápidas consumes a la semana?",
+    "q5": "¿Cuántas horas de ejercicio haces a la semana?"
+  },
+  "hipertension_arterial": {
+    "q1": "¿Has experimentado dolores de cabeza frecuentes, especialmente en la parte posterior de la cabeza?",
+    "q2": "¿Tienes antecedentes familiares de presión arterial alta?",
+    "q3": "¿Sientes palpitaciones en el pecho o latidos irregulares del corazón?",
+    "q4": "¿Con qué frecuencia consumes alimentos altos en sodio, como comida rápida o alimentos procesados?",
+    "q5": "¿Realizas actividad física regularmente?"
+  }
+}
+

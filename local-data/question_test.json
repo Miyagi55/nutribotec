@@ -1,0 +1,44 @@
+{
+  "anemia": {
+    "q1": {
+      "question": "¿Has sentido fatiga o debilidad inusual recientemente?",
+      "answers": {
+        "answer1": "Sí, con frecuencia",
+        "answer2": "A veces",
+        "answer3": "No"
+      }
+    },
+    "q2": {
+      "question": "¿Sufres de mareos o vértigos con frecuencia?",
+      "answers": {
+        "answer1": "Sí, a menudo",
+        "answer2": "De vez en cuando",
+        "answer3": "No"
+      }
+    },
+    "q3": {
+      "question": "¿Has notado piel pálida, especialmente alrededor de los labios o los párpados internos?",
+      "answers": {
+        "answer1": "Sí, en varias ocasiones",
+        "answer2": "Al menos una vez",
+        "answer3": "No"
+      }
+    },
+    "q4": {
+      "question": "¿Has experimentado falta de concentración o dificultades para recordar cosas?",
+      "answers": {
+        "answer1": "Sí, con frecuencia",
+        "answer2": "De vez en cuando",
+        "answer3": "No"
+      }
+    },
+    "q5": {
+      "question": "¿Con qué frecuencia consumes alimentos ricos en hierro, como carne roja, espinacas o legumbres?",
+      "answers": {
+        "answer1": "Raramente",
+        "answer2": "De vez en cuando",
+        "answer3": "Regularmente"
+      }
+    }
+    }
+}

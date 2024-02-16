@@ -1,0 +1,52 @@
+{
+	"ideas_de_preparaciones": [
+		{
+			"tiempo_de_comida": "desayuno",
+			"combinaciones": "lácteos bajo en grasa+cereal+fruta+proteína",
+			"ejemplo": "1 taza de leche baja en grasa + 2 cucharadas de avena + 1 taza de frutillas + 1 huevo cocido"
+		},
+		{
+			"tiempo_de_comida": "refrigerio 1",
+			"combinaciones": "cereal+fruta + agua",
+			"ejemplo": "6 galletas integrales + 1 durazno mediano + 1 vaso con agua"
+		},
+		{
+			"tiempo_de_comida": "almuerzo",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1/2 taza de arroz + 1 filete pequeño de pescado + 1 taza de ensalada + 1/4 tajada de aguacate + 1 naranja picada + 1 vaso con agua"
+		},
+		{
+			"tiempo_de_comida": "refrigerio 2",
+			"combinaciones": "lácteos bajos en grasa+cereal+fruta",
+			"ejemplo": "1 taza de yogurt bajo en grasa +3 cucharadas de corn flakes + 1 manzana pequeña"
+		},
+		{
+			"tiempo_de_comida": "merienda",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1/4 de verde mediano + 1 filete pequeño de pollo + 1 taza de ensalada + 1 puñadito de maní+ 1/2 taza de melón + 1 vaso con agua"
+		}
+	],
+	"recomendaciones_dieteticas_en_enfermedad_renal": {
+		"alimentos_no_permitidos": [
+			"Tener una baja ingesta de sal.",
+			"Eliminar el consumo de alimentos altos en sal como: chorizos, mortadelas, jamones, longaniza o morcilla.",
+			"Reducir el consumo de alimentos fuentes de calcio como: los lácteos, quesos o yogures pues altas ingestas de calcio no permiten que los cálculos renales se disuelvan.",
+			"Reducir el consumo de alimentos fuentes de oxalatos como: remolacha, papas fritas o papas de funda, nueces, maní, salvado de trigo, espinacas.",
+			"Eliminar el consumo de colas, bebidas gaseosas, alimentos enlatados, comidas rápidas, condimentos y aderezos (sazonadores de funda o botella,cubos maggi, salsa china, salsa inglesa o salsa de tomate)."
+		],
+		"alimentos_permitidos": [
+			"La grosella negra o los arándanos en jugo son aliados en el tratamiento de la enfermedad renal.",
+			"Alimentos ricos en potasio como: Vegetales: todos los vegetales de hojas verdes (menos espinacas) remolacha, brócoli, arvejas, habas, tomates, papas con cáscara, camote, col y lechuga. Frutas ricos en potasio como: melón, naranja, guayaba, guineo, kiwi, ciruelas, papaya, mandarina y mango.",
+			"Frutas bajas en oxalato: guineo, mora, frambuesas, cerezas, frutilla, manzanas, durazno, toronja, uva verde o morada, pera o piña. Verduras bajas en oxalato: brócoli, lechuga, coliflor, champiñones, cebollas, alverjas, pimiento y zapallo.",
+			"Integrar en la dieta proteína de origen vegetal bajo en oxalato como: frijoles, alverjas y lentejas."
+		],
+		"recomendaciónes_generales": [
+			"Se recomienda consumir 1 vaso con agua en cada comida, entre comidas, antes de irse a la cama y al levantarse por la noche para orinar, ya que esto permitirá eliminar los cálculos renales.",
+			"Revisar las etiquetas de los productos enlatados o empaquetados para evitar consumir aquellos alimentos que contengan sodio (sal) añadida o que en el empaque digan alto en sal.",
+			"Quitar el salero de la mesa en caso de que lo tenga y reducir el consumo habitual de sal de manera diaria hasta que pueda consumir alimento con poca o nula sal.",
+			"Remojar las verduras y legumbres durante una noche y cuando se cocinen hacerlo en agua sin sal, una vez finalice la cocción botar el agua de la cocción.",
+			"En caso de que no existan dolores, vómitos, fiebre, entre otros síntomas, se puede realizar de 20 a 30 minutos diarios del ejercicio o actividad física de su preferencia. Algunos ejemplos son: (caminata, natación, bailo terapia, bicicleta, etc.) esto permitirá que los cálculos se disuelvan con facilidad."
+		],
+		"nota": "* RECOMENDACIONES ECHAS SOLO Y EXCLUSIVAMENTE PARA ADULTOS. ** LOS NIÑOS EN CRECIMIENTO BAJO NINGUNA CIRCUNSTANCIA DEBEN HACER DIETA, SOLO CAMBIAR SUS HABITOS ALIMENTICIOS E INCREMENTAR SU ACTIVIDAD FISICA."
+	}
+}

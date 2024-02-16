@@ -1,0 +1,53 @@
+{
+	"ideas_de_preparaciones": [
+		{
+			"tiempo_de_comida": "desayuno",
+			"combinaciones": "lácteos bajo en grasa+cereal+fruta+proteína",
+			"ejemplo": "1 taza de leche baja en grasa + 2 cucharadas de avena + 1 taza de frutillas + 1 huevo cocido"
+		},
+		{
+			"tiempo_de_comida": "refrigerio 1",
+			"combinaciones": "lácteos bajos en grasa+cereal+fruta",
+			"ejemplo": "1 taza de yogurt bajo en grasas + 6 galletas integrales + 1 durazno mediano"
+		},
+		{
+			"tiempo_de_comida": "almuerzo",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1/2 taza de arroz + 1 filete pequeño de pescado + 1 taza de ensalada + 1/4 tajada de aguacate + 1 naranja picada + 1 vaso con agua"
+		},
+		{
+			"tiempo_de_comida": "refrigerio 2",
+			"combinaciones": "lácteos bajos en grasa+cereal+fruta",
+			"ejemplo": "1 taza de yogurt bajo en grasa + 3 cucharadas de corn flakes + 1 manzana pequeña"
+		},
+		{
+			"tiempo_de_comida": "merienda",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1/4 de verde mediano + 1 filete pequeño de pollo + 1 taza de ensalada con 1/2 taza de lentejas + 1 puñadito de maní + 1/2 taza de melón + 1 vaso con agua"
+		}
+	],
+	"recomendaciones_dieteticas_en_sobrepeso": {
+		"alimentos_no_permitidos": [
+			"Evitar el consumo de comida chatarra (papas fritas, papas de funda, chocolate menor al 80% de pureza, dulces, helados, etc).",
+			"Evitar el consumo de colas, bebidas energéticas, bebidas alcohólicas, jugos de botella o cartón, pues agregan una gran cantidad de azúcar a su dieta.",
+			"No utilizar aceites de funda o que en sus ingredientes lleven aceite de palma u oleína e palma.",
+			"No consumir alimentos fritos, frituras o apanaduras en sus preparaciones de manera diaria.",
+			"Evitar aquellos alimentos lácteos que tengan alto contenido de grasas, se recomienda tener un consumo bajo de panes dulces, pasteles y helados."
+		],
+		"alimentos_permitidos": [
+			"Un aliado para mantenerse saciado es la fibra, esta se encuentra en todos los vegetales de hojas verdes, en la piel de las frutas y en los cereales integrales.",
+			"Optar por incluir porciones de fruta luego de la ingesta de una comida principal y adicionarle un vaso con agua, esto reemplazará el jugo y permitirá llegar con mayor facilidad a su meta.",
+			"Opte por incluir en su alimentación aceite de oliva, canola o girasol, también aguacate y frutos secos como maní, nueces o almendras.",
+			"Cambie los métodos de cocinado, en vez de utilizar el frito o apanado, optar por hervido, salteado, sancochado, al horno en papel aluminio.",
+			"Introducir a su dieta lácteos desnatados o bajos en grasa ya que tendrá un aporte menor de grasas."
+		],
+		"recomendaciones_generales": [
+			"Evitar realizar otras actividades mientras come, como por ejemplo ver el celular, ya que esto dividirá su atención, no se saciará con las porciones servidas y querrá consumir más alimento.",
+			"Beber de 1.5Lt a 2 Lt de agua natural al día.",
+			"Realizar de 20 a 30 minutos del ejercicio o actividad física de su preferencia 2 a 3 veces a la semana. Algunos ejemplos son: (ejercicio de pesas, caminata, natación, bailo terapia).",
+			"Revisar las etiquetas de los productos enlatados o empaquetados para evitar consumir aquellos alimentos que contengan azúcar y/o sal añadida o que en el empaque digan alto en sal y azúcar",
+			"Evitar largos periodos sin consumir alimentos, por eso es importante incluir 2 refrigerios luego de los 3 tiempos de comida principales (Desayuno, almuerzo, merienda)."
+		]
+	},
+	"nota": "* RECOMENDACIONES HECHAS SOLO Y EXCLUSIVAMENTE PARA ADULTOS\n\n**LOS NIÑOS EN CRECIMIENTO BAJO NINGUNA CIRCUNSTANCIA DEBEN HACER DIETA, SOLO CAMBIAR SUS HABITOS ALIMENTICIOS E INCREMENTAR SU"
+}

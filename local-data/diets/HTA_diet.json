@@ -1,0 +1,58 @@
+{
+	"ideas_de_preparaciones": [
+		{
+			"tiempo_de_comida": "desayuno",
+			"combinaciones": "lácteos bajo en grasa+cereal+fruta+proteína",
+			"ejemplo": "1 taza de leche baja en grasa + 2 cucharadas de avena + 1 taza de frutillas + 1 huevo cocido"
+		},
+		{
+			"tiempo_de_comida": "refrigerio 1",
+			"combinaciones": "lácteos bajos en grasa+cereal+fruta",
+			"ejemplo": "1 taza de yogurt bajo en grasas + 6 galletas integrales + 1 durazno mediano"
+		},
+		{
+			"tiempo_de_comida": "almuerzo",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1/2 taza de arroz + 1 filete pequeño de pescado + 1 taza de ensalada + 1/4 tajada de aguacate + 1 naranja picada + 1 vaso con agua"
+		},
+		{
+			"tiempo_de_comida": "refrigerio 2",
+			"combinaciones": "lácteos bajos en grasa+cereal+fruta",
+			"ejemplo": "1 taza de yogurt bajo en grasa + 3 cucharadas de corn flakes + 1 manzana pequeña"
+		},
+		{
+			"tiempo_de_comida": "merienda",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1/4 de verde mediano + 1 filete pequeño de pollo + 1 taza de ensalada con 1/2 taza de lentejas + 1 puñadito de maní + 1/2 taza de melón + 1 vaso con agua"
+		}
+	],
+	"recomendaciones_dieteticas_presion_alta": {
+		"alimentos_no_permitidos": [
+			"Eliminar el consumo de alimentos de origen animal procesados como: como chorizos, mortadelas, jamones, longaniza, morcilla.",
+			"Bebidas alcohólicas, bebidas energéticas y tabaco.",
+			"Condimentos altos en sodio como: sazonadores de funda o botella, cubos maggi, sal de ajo o sal de cebolla, salsa china, salsa inglesa o salsa de tomate."
+		],
+		"alimentos_permitidos": [
+			"*Alimentos ricos en potasio como: Vegetales de hojas verdes (menos espinacas), remolacha, brócoli, arvejas, habas, tomates, papas con cáscara, camote, col y lechuga.",
+			"*Frutas ricas en potasio como: melón, naranja, guayaba, guineo, kiwi, ciruelas, papaya, mandarina, mango, pera y manzana.",
+			"*Alimentos ricos en magnesio como: nueces, aguacate, semillas de linaza, chía y frutos secos como almendras y nueces, pan y cereales integrales.",
+			"*Pescados ricos en omega 3 como: Bacalao, sardina natural y trucha.",
+			"Si desea sazonar:",
+			"*Para Cremas, coladas, infusiones, papilla o repostería: utilice canela, pimienta y clavo de olor.",
+			"*Para Ensaladas, salsa, seco o estofado, adobar carnes: utilice Curry, Paprika, Jengibre, Nuez moscada, Pimienta, Albahaca, Anís, Cilantro, Eneldo, Laurel, Orégano, Perejil, Romero, Tomillo, Cebolla y Ajo en polvo.",
+			"*Consuma preferentemente lácteos frescos, bajos en grasa y si es posible enriquecidos en calcio y vitamina"
+		],
+		"recomendaciones_generales": [
+			"*Incluir alimentos ricos en fibra como: frutas y vegetales de hoja verde ya que lo mantendrán saciado por mas tiempo.",
+			"Beber de 1.5Lt a 2 Lt de agua natural al día.",
+			"Realizar de 20 a 30 minutos del ejercicio o actividad física de su preferencia 2 a 3 veces a la semana, algunos ejemplos son: (ejercicio de pesas, caminata, natación, bailo terapia).",
+			"*Revisar las etiquetas de los productos enlatados o empaquetados para evitar consumir aquellos alimentos que contengan sodio (sal) añadida o que en el empaque digan alto en sal.",
+			"Quitar el salero de la mesa en caso de que lo tenga y reducir el consumo habitual de sal de manera diaria hasta que pueda consumir alimento con poca o nula sal.",
+			"Remojar las verduras y legumbres durante una noche y cuando se cocinen hacerlo en agua sin sal, una vez finalice la cocción botar el agua de la cocción"
+		]
+	},
+	"nota": {
+		"recomendaciones_solo_adultos": "* RECOMENDACIONES ECHAS SOLO Y EXCLUSIVAMENTE PARAADULTOS",
+		"recomendaciones_niños": "**LOS NIÑOS EN CRECIMIENTO BAJO NINGUNA CIRCUNSTANCIA DEBEN HACER DIETA,SOLO CAMBIAR SUS HABITOS ALIMENTICIOS E INCREMENTAR SU ACTIVIDAD FISICA"
+	}
+}

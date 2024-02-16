@@ -1,0 +1,38 @@
+{
+	"ideas_de_preparaciones": [
+		{
+			"tiempo_de_comida": "desayuno",
+			"combinaciones": "lácteos bajo en grasa+cereal+fruta+proteína",
+			"ejemplo": "1 taza de leche baja en grasa + 2 cucharadas de avena + 1 taza de frutillas + 1 huevo cocido"
+		},
+		{
+			"tiempo_de_comida": "refrigerio 1",
+			"combinaciones": "lácteos bajos en grasa+cereal+fruta",
+			"ejemplo": "1 taza de yogurt bajo en grasas + 6 galletas integrales + 1 durazno mediano"
+		},
+		{
+			"tiempo_de_comida": "almuerzo",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1/2 taza de arroz + 1 filete pequeño de pescado + 1 taza de ensalada + 1/4 tajada de aguacate + 1 naranja picada + 1 vaso con agua"
+		},
+		{
+			"tiempo_de_comida": "refrigerio 2",
+			"combinaciones": "lácteos bajos en grasa+cereal+fruta",
+			"ejemplo": "1 taza de yogurt bajo en grasa + 3 cucharadas de corn flakes + 1 manzana pequeña"
+		},
+		{
+			"tiempo_de_comida": "merienda",
+			"combinaciones": "cereal+proteína+vegetales+grasa+fruta + agua",
+			"ejemplo": "1/4 de verde mediano + 1 filete pequeño de pollo + 1 taza de ensalada con 1/2 taza de lentejas + 1 puñadito de maní + 1/2 taza de melón + 1 vaso con agua."
+		}
+	],
+	"recomendaciones_dieteticas_en_diabetes": {
+		"alimentos_no_permitidos": ["Evitar el consumo de azúcares refinados como: azúcar blanca, miel, mermeladas, frutas en almíbar, dulces, pan blanco, pan de dulce, chocolate que no sea superior al 80% de pureza.", "Lácteos enteros por su alto contenido en grasa saturada.", "Bebidas azucaradas como coca-cola u otras colas, jugos de carton o frutas en jugos, bebidas alcohólicas, bebidas energéticas.", "Tabaco, drogas"],
+		"alimentos_permitidos": ["Si desea consumir cereales o panes, priorizar el consumo de aquellos que sean integrales o de grano entero.", "Si desea consumir un alimento dulce en el almuerzo y/o merienda optar por el consumo de fruta entera, es decir, no pelar la fruta o hacerla jugo.", "Si desea consumir lácteos, consumir aquellos lácteos que sean descremados o bajos en grasa.", "Si desea consumir azúcar, optar por endulzantes no calóricos como (splenda, gotas, sweet'n low, etc) pues no alteraran su azúcar en sangre y seguirán dando un toque dulce a las preparaciones."],
+		"recomendaciones_generales": ["Incluir alimentos ricos en fibra como: frutas y vegetales de hoja verde ya que lo mantendran saciado por mas tiempo.", "Beber de 1.5lt a 2 lt de agua natural al día.", "Realizar de 20 a 30 minutos diarios del ejercicio o actividad física de su preferencia: ejercicio de pesas, caminata, natación , bailo terapia, etc.", "Revisar las etiquetas de los productos enlatados o empaquetados para evitar consumir aquellos alimentos que contengan azúcar añadida o que en el empaque digan alto en azúcar.", "Al momento de aplicar la insulina no dejar el frasco fuera de refrigeración, es recomendable tomar la dosis prescita por el medico y dejar que solo esa dosis este fuera de refrigeración."]
+	},
+	"nota": "* Recomendaciones echas solo y exclusivamente paraadultos\n** Los niños en crecimiento bajo ninguna circunstancia deben hacer dieta, solo cambiar sus habitos alimenticios e incrementar su actividad fisica\nElaborado por: IRN Alan Guijarrojara\nNutrición y diet"
+}
+
+
+
