@@ -9,10 +9,10 @@ connection = pymysql.connect(
   connect_timeout=timeout,
   cursorclass=pymysql.cursors.DictCursor,
   db="defaultdb",
-  host="mysql-5812e2f-nb-project.a.aivencloud.com",
+  host="your.database.host.name",
   password="password",
   read_timeout=timeout,
-  port=28602,
+  port=port,
   user="avnadmin",
   write_timeout=timeout,
 )
