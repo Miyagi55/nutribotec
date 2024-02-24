@@ -9,16 +9,24 @@ Dentro de su información también hay una extensa lista de ingredientes donde c
 ### Diagrama de infraestructura
 El proyecto fué desarrollado usando la Cloud Shell de Google y su editor de texto. El bot está desplegado para producción, en una Instancia de Máquina Virtual Ubuntu y se conecta también a una Base de datos MySQL proveída por .  
 
+
+
 ![text](https://github.com/Miyagi55/nutribotec/blob/main/photo_2024-02-23_22-08-55.jpg)
 
-### Descripción de Componentes
-- **Componente 1:** Descripción del componente 1.
-- **Componente 2:** Descripción del componente 2.
-- **Componente 3 (opcional):** Descripción del componente 3.
+
+
+### Modelado de datos
+
+![text](https://github.com/Miyagi55/nutribotec/blob/main/photo_2024-02-23_22-09-05.jpg)
+
 
 ## Funcionamiento del Proyecto
 ### Diagrama de Flujo
-Diagrama de flujo que muestra cómo funciona el proyecto en general.
+Diagrama de flujo que muestra cómo funciona el bot en general.
+
+
+![text](https://github.com/Miyagi55/nutribotec/blob/main/diagrama_de_flujo.jpg)
+
 
 ### Proceso Paso a Paso
 1. Paso 1: Descripción del paso 1.
