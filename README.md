@@ -1,7 +1,7 @@
 # NutriBotEC
 
 ## Descripción
-NutribotEC es un bot de Telegram que está alimentado con información en materia de nutrición. Su función es, en base a las elecciones de los usuarios, dar recomendaciones especificas para cada uno de los padecimientos más comunes relacionados, generalmente, a los hábitos alimenticios. 
+NutribotEC es un bot de Telegram que está alimentado con información en materia de nutrición. Su función es, en base a las elecciones de los usuarios, dar recomendaciones para cada uno de los padecimientos más comunes relacionados, generalmente, a los hábitos alimenticios. 
 
 Dentro de su información también hay una extensa lista de ingredientes donde cada uno tiene su respectiva porción, entonces al ser seleccionados y guardados, el bot genera una dieta diaria que es una combinación aleatoria de todos los ingredientes elegidos. 
 
@@ -16,7 +16,7 @@ Principalmente alojado en la nube de Google, el proyecto fué desarrollado usand
 
 ### Descripción de Componentes
 - **Telegram Bot API:** Servicio de Telegram, su [API pública](https://core.telegram.org/api) de Bot te permite crear fácilmente programas que utilizan mensajes de Telegram como interfaz de usuario (FrontEnd).
-- **pyTelegramBotAPI:** [Librería usada](https://pypi.org/project/pyTelegramBotAPI/) en el proyecto, es una implementación de Python simple pero extensible que nos conecta con la API de Telegram Bot.
+- **pyTelegramBotAPI:** [Librería usada](https://pypi.org/project/pyTelegramBotAPI/) en el proyecto, es una implementación de Python simple pero extensible que conecta muestro código con la API de Telegram Bot.
 - **Google Cloud Shell:** [Cloud Shell](https://cloud.google.com/shell?hl=es) es un entorno de desarrollo y operaciones online. Puedes desarrollar, compilar, depurar y desplegar tus aplicaciones nativas de la nube mediante el editor de Cloud Shell.
 - **Máquina virtual Ubuntu:** Máquina virtual creada como instancia de [Compute Engine](https://cloud.google.com/compute/docs/faq?hl=es-419) en la [consola de la nube de google.](https://cloud.google.com/cloud-console?hl=es-419). Aquí permanece alojado el codigo fuente y su ejecución permanente.
 - **Aiven.io - Servicio de base de datos:** Usando su API, el bot se conecta programáticamente a la base de datos MySQL alojada y administrada por [Aiven](https://aiven.io/mysql).  
@@ -24,7 +24,7 @@ Principalmente alojado en la nube de Google, el proyecto fué desarrollado usand
 
 
 ## Modelado de datos
-En este modelado sencillo, se reconocieron dos *entidades*, que son las dos tablas: *users*(usuarios) y *answers*(respuestas). Menciono nuevamente, que el id_usuario es asignado con el ID de telegram, y el id_cuestionario es asignado una vez terminado el paso ejecutado por el comando /cuestionario. Con ésta lógica, solo puede haber un usuario por sesion de Telegram y un cuestionario (que puede ser sobre-escrito) por usuario. 
+En este modelado sencillo, se reconocieron dos *entidades*, que son las dos tablas: *users*(usuarios) y *answers*(respuestas). El id_usuario es relacionado con el ID de telegram, y el id_cuestionario es asignado una vez terminado el paso ejecutado por el comando /cuestionario. Con ésta lógica, solo puede haber un usuario por sesion de Telegram y un cuestionario (que puede ser sobre-escrito) por usuario. 
 
 ![text](https://github.com/Miyagi55/nutribotec/blob/main/photo_2024-02-23_22-09-05.jpg)
 
