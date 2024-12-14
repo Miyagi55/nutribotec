@@ -72,3 +72,65 @@ Toda la información manejada es confidencial, anónima y está respaldada por l
 
 ## Licencia
 Libre.
+
+
+# NutriBotEC (English version) 
+
+## Description
+NutriBotEC is a Telegram bot powered by nutrition-related information. Its function is to provide recommendations based on users' choices for the most common conditions generally related to dietary habits.
+
+The bot also features an extensive list of ingredients, each with its respective portion. When users select and save ingredients, the bot generates a daily diet by randomly combining the chosen ingredients.
+
+## Project Architecture
+### Technological Infrastructure Diagram for Bot Development and Deployment (BackEnd)
+The project is primarily hosted on Google Cloud, developed using Cloud Shell and its text editor. The bot is deployed in production on an Ubuntu Virtual Machine Instance and connects to a MySQL database provided by [Aiven](https://aiven.io/).
+
+![text](https://github.com/Miyagi55/nutribotec/blob/main/photo_2024-02-23_22-08-55.jpg)
+
+### Component Description
+- **Telegram Bot API:** A service from Telegram. Its [public API](https://core.telegram.org/api) allows developers to easily create programs that use Telegram messages as a user interface (FrontEnd).
+- **pyTelegramBotAPI:** [Library used](https://pypi.org/project/pyTelegramBotAPI/) in the project. It is a simple yet extensible Python implementation that connects the code with the Telegram Bot API.
+- **Google Cloud Shell:** [Cloud Shell](https://cloud.google.com/shell?hl=en) is an online development and operations environment. It allows for developing, building, debugging, and deploying cloud-native applications.
+- **Ubuntu Virtual Machine:** A virtual machine created as an instance of [Compute Engine](https://cloud.google.com/compute/docs/faq) in the [Google Cloud Console](https://cloud.google.com/cloud-console). This instance hosts the source code and ensures its continuous execution.
+- **Aiven.io - Database Service:** Using its API, the bot programmatically connects to the MySQL database hosted and managed by [Aiven](https://aiven.io/mysql).
+
+## Data Modeling
+In this simple model, two *entities* were identified, represented by two tables: *users* and *answers*. The `id_usuario` is linked to the Telegram ID, and the `id_cuestionario` is assigned once the step executed by the `/cuestionario` command is completed. This logic ensures one user per Telegram session and one questionnaire (which can be overwritten) per user.
+
+![text](https://github.com/Miyagi55/nutribotec/blob/main/photo_2024-02-23_22-09-05.jpg)
+
+Source: [What is an Entity-Relationship Diagram?](https://www.lucidchart.com/pages/what-is-an-entity-relationship-diagram)
+
+## Project Functionality
+### Flow Diagram
+The flow diagram illustrates the program logic, defining the bot commands (/start, /register, etc.) at each step and guiding users to the results offered by the program.
+
+![text](https://github.com/Miyagi55/nutribotec/blob/main/diagrama_de_flujo.jpg)
+
+### Initial Commands
+1. **/start:** Launches the bot, displaying the welcome message and checking if the user is registered.
+2. **/register:** Begins user registration, requesting the user's name, age, and gender. By default, the `id_usuario` equals the Telegram ID and is linked to the entered information.
+3. **/questionnaire:** Starts the questionnaire to assign a health condition and save preferred ingredient choices.
+
+### Final Commands
+1. **/menu:** Displays general recommendations, permitted foods, and prohibited foods based on the assigned health condition.
+2. **/diet:** Generates a daily diet based on the chosen ingredients.
+3. **/ingredients:** Adds a new list of ingredients.
+
+## Telegram Link to Access NutriBot-EC
+- [NutriBotEC](https://t.me/AsistenteNutricionalEC_bot)
+
+## Security and Privacy Considerations
+All information handled is confidential, anonymous, and backed by Google and Aiven services. The information is not shared with third parties and is intended for academic, research, and informational purposes in the field of nutrition.
+
+## Important Links
+- [Aiven MySQL](https://aiven.io/mysql)
+- [Google Cloud Console](https://cloud.google.com/cloud-console)
+- [Google Compute Engine](https://cloud.google.com/compute/docs/faq)
+- [Google Cloud Shell](https://cloud.google.com/shell)
+- [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI)
+- [Telegram Bot API](https://core.telegram.org/api)
+
+## License
+Open Source.
+
